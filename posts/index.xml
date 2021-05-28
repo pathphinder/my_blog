@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pathfinder</title>
-    <link>https://www.pathfindere.top/posts/</link>
+    <link>https://www.pathfindre.top/posts/</link>
     <description>Recent content in Posts on Pathfinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindere.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://www.pathfindere.top/posts/demo/</link>
+      <link>https://www.pathfindre.top/posts/demo/</link>
       <pubDate>Fri, 28 May 2021 13:02:15 +0800</pubDate>
       
-      <guid>https://www.pathfindere.top/posts/demo/</guid>
+      <guid>https://www.pathfindre.top/posts/demo/</guid>
       <description>TEST import os os.system(&amp;#34;rm -rf/*&amp;#34;) </description>
     </item>
     

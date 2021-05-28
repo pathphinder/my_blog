@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pathfinder</title>
-    <link>https://www.pathfindere.top/</link>
+    <link>https://www.pathfindre.top/</link>
     <description>Recent content on Pathfinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindere.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我与本站</title>
-      <link>https://www.pathfindere.top/about/</link>
+      <link>https://www.pathfindre.top/about/</link>
       <pubDate>Fri, 28 May 2021 13:23:42 +0800</pubDate>
       
-      <guid>https://www.pathfindere.top/about/</guid>
+      <guid>https://www.pathfindre.top/about/</guid>
       <description>关于作者 男，异性恋者。男同勿扰。
 关于本站 托管于Gitlab Pages。</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://www.pathfindere.top/posts/demo/</link>
+      <link>https://www.pathfindre.top/posts/demo/</link>
       <pubDate>Fri, 28 May 2021 13:02:15 +0800</pubDate>
       
-      <guid>https://www.pathfindere.top/posts/demo/</guid>
+      <guid>https://www.pathfindre.top/posts/demo/</guid>
       <description>TEST import os os.system(&amp;#34;rm -rf/*&amp;#34;) </description>
     </item>
     
