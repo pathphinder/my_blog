@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Pathfinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 18:27:12 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站始末</title>
+      <link>https://www.pathfindre.top/posts/%E5%BB%BA%E7%AB%99%E5%A7%8B%E6%9C%AB/</link>
+      <pubDate>Sat, 29 May 2021 18:27:12 +0800</pubDate>
+      
+      <guid>https://www.pathfindre.top/posts/%E5%BB%BA%E7%AB%99%E5%A7%8B%E6%9C%AB/</guid>
+      <description>&lt;p&gt;其实站长除了这个站以外还有一个个人博客，不过那个博客经营了挺久的，域名也是国内实名注册的，还有一堆友链，不太适合拿来发一些奇奇怪怪的东西，所以就再建个站用来发这些奇奇怪怪的东西。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Demo</title>
       <link>https://www.pathfindre.top/posts/demo/</link>

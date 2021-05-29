@@ -6,7 +6,16 @@
     <description>Recent content on Pathfinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 May 2021 13:02:15 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 18:27:12 +0800</lastBuildDate><atom:link href="https://www.pathfindre.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站始末</title>
+      <link>https://www.pathfindre.top/posts/%E5%BB%BA%E7%AB%99%E5%A7%8B%E6%9C%AB/</link>
+      <pubDate>Sat, 29 May 2021 18:27:12 +0800</pubDate>
+      
+      <guid>https://www.pathfindre.top/posts/%E5%BB%BA%E7%AB%99%E5%A7%8B%E6%9C%AB/</guid>
+      <description>&lt;p&gt;其实站长除了这个站以外还有一个个人博客，不过那个博客经营了挺久的，域名也是国内实名注册的，还有一堆友链，不太适合拿来发一些奇奇怪怪的东西，所以就再建个站用来发这些奇奇怪怪的东西。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>关于我与本站</title>
       <link>https://www.pathfindre.top/about/</link>
@@ -14,7 +23,7 @@
       
       <guid>https://www.pathfindre.top/about/</guid>
       <description>关于作者 男，异性恋者。男同勿扰。
-关于本站 托管于Gitlab Pages。</description>
+关于本站 会发一些被普通人认为比较变态的东西，NSFW 托管于Github Pages。</description>
     </item>
     
     <item>
