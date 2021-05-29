@@ -23,17 +23,8 @@
       
       <guid>https://www.pathfindre.top/about/</guid>
       <description>关于作者 男，异性恋者。男同勿扰。
- 百合  关于本站 会发一些被普通人认为比较变态的东西，NSFW
+关于本站 会发一些被普通人认为比较变态的东西，NSFW
 托管于Github Pages。</description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://www.pathfindre.top/posts/demo/</link>
-      <pubDate>Fri, 28 May 2021 13:02:15 +0800</pubDate>
-      
-      <guid>https://www.pathfindre.top/posts/demo/</guid>
-      <description>TEST import os os.system(&amp;#34;rm -rf/*&amp;#34;) </description>
     </item>
     
   </channel>
